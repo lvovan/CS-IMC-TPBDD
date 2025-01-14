@@ -56,7 +56,7 @@ with pyodbc.connect('DRIVER='+driver+';SERVER=tcp:'+server+';PORT=1433;DATABASE=
             print(error)
 
     # Names
-    # En vous basant sur ce qui a été fait dans la section précédente, exportez les données de la table tNames
+    # En vous basant sur ce qui a été fait dans la section précédente, exportez les données de la table tArtist
     # A COMPLETER
 
     try:
